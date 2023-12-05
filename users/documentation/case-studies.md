@@ -34,7 +34,7 @@ for code, Creative Commons for text)</span>; authors retain all copyright.
 ## Estimating Dynamic Cross-National Opinion Using Existing Survey Data
 <small> This case study describes a method for estimating dynamic, cross-national, latent public opinion using existing survey data. It outlines the model and its coding in Stan, explains how to set the model up in R and run it using cmdstanr, then walks through an example where the model is used to estimate public support for democracy in 144 countries from 1988 to 2020.
 
-[View](case-studies/estimating-dynamic-latent-opinion.html) <span
+[View](https://github.com/cbpclaassen/dynamic_opinion/blob/main/estimating-dynamic-latent-opinion.html) <span
 class="note">(HTML)</span>
 
 Authors
@@ -44,7 +44,7 @@ Keywords
 : latent variable models, public opinion, longitudinal model
 
 Source Repository
-: [example-models/knitr/dynamic-opinion](https://github.com/joonho112/example-models/tree/master/knitr/dynamic_opinion/estimating-dynamic-latent-opinion.html)
+: [dynamic-opinion](https://github.com/cbpclaassen/dynamic_opinion)
 <span class="note">(GitHub)</span>
 
 Dependencies
