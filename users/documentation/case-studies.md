@@ -44,7 +44,7 @@ Keywords
 : latent variable models, public opinion, longitudinal model
 
 Source Repository
-: [example-models/knitr/dynamic-opinion](https://github.com/joonho112/example-models/tree/master/knitr/dynamic_opinion/estimating-dynamic-latent-opinion.html)
+: [dynamic_opinion](https://github.com/cbpclaassen/dynamic_opinion)
 <span class="note">(GitHub)</span>
 
 Dependencies
